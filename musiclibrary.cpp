@@ -274,7 +274,7 @@ void search( string& remains,map<string,albumData>&library){
 
             }
         }
-        //print the final search results
+        //print the final results
         printResults(searchResults);
     }
 }
