@@ -1,0 +1,4 @@
+# ninja log v5
+4	241	6979678399944561	build.ninja	54e0a8173a3f6988
+0	1611	6979678417064580	CMakeFiles/music_lib.dir/musiclibrary.cpp.obj	e1b1c1b0a3c25ef0
+1615	1864	6979678419515399	music_lib.exe	8856661d0eb7cf58
